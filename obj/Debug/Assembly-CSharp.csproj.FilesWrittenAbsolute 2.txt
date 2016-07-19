@@ -1,0 +1,17 @@
+/Users/pashutaz/Documents/My_Progects/Game Dev/Unity/Space Shooter/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/pashutaz/Documents/My_Progects/Game Dev/Unity/Space Shooter/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/pashutaz/Documents/My_Progects/Game Dev/Unity/Space Shooter/obj/Debug/Assembly-CSharp.dll
+/Users/pashutaz/Documents/My_Progects/Game Dev/Unity/Space Shooter/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/pashutaz/Documents/My_Progects/Game Dev/Unity/Space Shooter/Temp/bin/Debug/UnityEngine.dll
+/Users/pashutaz/Documents/My_Progects/Game Dev/Unity/Space Shooter/Temp/bin/Debug/UnityEditor.dll
+/Users/pashutaz/Documents/My_Progects/Game Dev/Unity/Space Shooter/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/pashutaz/Documents/My_Progects/Game Dev/Unity/Space Shooter/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/pashutaz/Documents/My_Progects/Game Dev/Unity/Space Shooter/Temp/bin/Debug/Mono.Cecil.dll
+/Users/pashutaz/Documents/My_Progects/Game Dev/Unity/Space Shooter/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/pashutaz/Documents/My_Progects/Game Dev/Unity/Space Shooter/Temp/bin/Debug/Unity.DataContract.dll
+/Users/pashutaz/Documents/My_Progects/Game Dev/Unity/Space Shooter/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/pashutaz/Documents/My_Progects/Game Dev/Unity/Space Shooter/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/pashutaz/Documents/My_Progects/Game Dev/Unity/Space Shooter/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/pashutaz/Documents/My_Progects/Game Dev/Unity/Space Shooter/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/pashutaz/Documents/My_Progects/Game Dev/Unity/Space Shooter/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/pashutaz/Documents/My_Progects/Game Dev/Unity/Space Shooter/Temp/bin/Debug/Mono.Cecil.Mdb.dll
